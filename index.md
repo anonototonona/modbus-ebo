@@ -6,7 +6,7 @@ Syftet är att hjälpa en Copilot-agent att analysera Modbuslistor från PLC, DU
 
 ## Kunskapsbas
 
-- [Ordlista](ordlista.md)  
+- [Ordlista](EBO_Modbus_ordlista.md)  
   Förklarar vanliga förkortningar, komponentnamn och tekniska begrepp inom fastighetsautomation.
 
 - [EBO-suffix](ebo-suffix.md)  
